@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Planning prévisionnel" company="" webLink="http://" view-date="2015-09-21" view-index="0" gantt-divider-location="465" resource-divider-location="300" version="2.7.1" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Planning prévisionnel" company="" webLink="http://" view-date="2015-09-21" view-index="0" gantt-divider-location="465" resource-divider-location="300" version="2.7.1" locale="fr">
     <description/>
     <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nom" width="66" order="0"/>
@@ -8,8 +8,8 @@
         <option id="color.recent"><![CDATA[#ff0000]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Nom" width="56" order="0"/>
-        <field id="1" name="Rôle par défaut" width="43" order="1"/>
+        <field id="0" name="Nom" width="52" order="0"/>
+        <field id="1" name="Rôle par défaut" width="47" order="1"/>
     </view>
     <!-- -->
     <calendars base-id="Aucun">
