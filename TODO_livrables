@@ -1,0 +1,20 @@
+Les acteurs de ce projet sont : 
+- l'utilisateur est le client SNCF.
+- l'administrateur est l'entreprise Sectronic
+
+La maintenance sera gérée par l'administrateur.
+
+
+Pour l'utilisateur :
+- Schémas et routage de la carte électronique
+- Documentation d'utilisation du serveur
+- Binaire du logiciel
+
+Pour l'administrateur :
+- Schémas et routage de la carte électronique
+- Projet et binaire du logiciel
+- Documentation du logiciel
+- Procédure d'installation du serveur
+- Logiciel de test ?
+- Procédure de tests qui prouve que tout fonctionne
+
